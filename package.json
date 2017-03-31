@@ -22,5 +22,8 @@
   "homepage": "https://github.com/upinblayze/oneSlackAway#readme",
   "dependencies": {
     "@slack/client": "^3.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0"
   }
 }
