@@ -1,0 +1,26 @@
+{
+  "name": "one-slack-away",
+  "version": "1.0.0",
+  "description": "Slack bus schedule integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upinblayze/oneSlackAway.git"
+  },
+  "keywords": [
+    "bus",
+    "slack"
+  ],
+  "author": "Kellen Sarah Donna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upinblayze/oneSlackAway/issues"
+  },
+  "homepage": "https://github.com/upinblayze/oneSlackAway#readme",
+  "dependencies": {
+    "@slack/client": "^3.9.0"
+  }
+}
